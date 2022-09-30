@@ -1,7 +1,3 @@
-# 
-# Its is a tool install tools in Mac OS Env
-# Please have some net connections
-
 # This is a command to check weather your system is a Mac OS or not.
 
 if [ uname == "Darwin" ]
